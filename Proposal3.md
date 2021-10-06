@@ -2,7 +2,8 @@
 #### 10/06/2021
 
 #### Question
-For this project, I am planning on building a model that will target the greatest areas of need for a telehealth company that specializes in mental health therapy. With my model, this company will be able to target specific area codes in the United States with higher rates of suicide. They can then increase brand awareness in said areas using targeted ads. I also plan on finding remote areas that do not have access to clinics or therapists. 
+For this project, I am planning on building a model that will target the greatest areas of need for a telehealth company that specializes in mental health therapy. With my model, this company will be able to target specific area codes in the United States with higher rates of suicide. They can then increase brand awareness in said areas using targeted ads. I also plan on finding remote areas that do not have access to clinics or therapists.
+
 My target company will benefit by gaining users that they can then match to a therapist. I also believe that my targeted base will benefit as people often refuse to go to therapy due to the stigma surrounding mental health. Moreover, many people live in areas with limited access to mental health care and would benefit from the convenience of telehealth services. By promoting a telehealth company in these areas, we can take a preventative approach to mental health issues in the US.
 
 
@@ -12,6 +13,7 @@ All of my data is publicly available from the Center for Disease Control website
 
 #### Tools
 Exploratory data analysis will be performed using Excel. I am also planning on storing my data in a SQLite database. If needed, I plan on using Folium which is a Python library used for visualizing geospatial data.
+
 All visualizations will be created in Tableau.
 
 

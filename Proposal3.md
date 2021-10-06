@@ -1,5 +1,5 @@
-### Proposal - Joseph Brazzale  
-#### 10/06/2021
+# Proposal - Business  
+## Joseph Brazzale (10/06/2021)
 
 #### Question
 For this project, I am planning on building a model that will target the greatest areas of need for a telehealth company that specializes in mental health therapy. With my model, this company will be able to target specific area codes in the United States with higher rates of suicide. They can then increase brand awareness in said areas using targeted ads. I also plan on finding remote areas that do not have access to clinics or therapists.

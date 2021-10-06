@@ -21,6 +21,9 @@ will take a higher priority for our ads.
 Exploratory data analysis will be performed using Excel. I am also planning on storing my data in a SQLite database.
 Are you planning in advance to need or use additional tools beyond those required?
 If needed, I plan on using Folium which is a Python library used for visualizing geospatial data.
+
+All vizualizations will be made using Tableau.
+
 #### MVP Goal
 A good MVP will highlight that there are in fact areas in the united states that need increased awareness for 
 tele-health services
